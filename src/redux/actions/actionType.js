@@ -1,0 +1,1 @@
+export const SET_ALL_QUESTIONS = "SET_ALL_QUESTIONS";
